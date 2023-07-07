@@ -17,6 +17,9 @@
 * Website: https://velog.io/@leesomyoung
 * Github: [@LeeSoMyoung](https://github.com/LeeSoMyoung)
 
+## 📖 시스템 구성도
+![](../시스템 구성도.jpg)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://catholic-calendar.shop). 
